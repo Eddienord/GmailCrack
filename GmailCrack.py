@@ -1,10 +1,11 @@
 # Program: Gmail Dictionary Attack v2
 
-print"Join Ethical Hacker's Community"
+"Join Ethical Hacker's Community"
 #Information
-print "Author: Kinghacker0"
-print "YouTube - www.YouTube.com/Hacker's King "
-print "Website - www.hackersking.in"
+Print "Author: Kinghacker0"
+Print "YouTube - www.YouTube.com/Hacker's King "
+Print "Website - www.hackersking.in"
+
 
 print"      *                                            *   "
 print"     *                                              *    "
@@ -27,6 +28,7 @@ print"                 **                 **    "
 print"                   *                *     "
 
 print" Disclaimer- This tool is only for educational purpose"
+
 import smtplib
 
 smtpserver = smtplib.SMTP("smtp.gmail.com", 587)
